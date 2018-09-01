@@ -1,0 +1,10 @@
+{
+  "realm": "public",
+  "auth-server-url": "https://sso.andrea.muellerpublic.de/auth",
+  "ssl-required": "external",
+  "resource": "nexus-anrisoftware-com",
+  "credentials": {
+    "secret": "76cbb460-79cf-4e4d-b396-68b6bc7b972a"
+  },
+  "confidential-port": 0
+} 
